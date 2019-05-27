@@ -8,8 +8,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 Syntax highlighted code block
 
-- Bulleted
-- List
+- Bullete
 
 1. Numbered
 2. List
